@@ -18,7 +18,7 @@ Be careful not to pull too hard so as not to break the copper traces !
 
 Solder the two black cables.
 
-<img src="images/APW3 Module - Inside Cnx 1.jpg" width="500">
+<img src="/images/APW3 Module - Inside Cnx 1.jpg" width="500">
 
 # Cable Positioning
 
